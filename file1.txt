@@ -1,1 +1,1 @@
-This is line inserted in second branch
+This is line 1 in file1.txt
